@@ -8,6 +8,6 @@ int main() {
     cout << "Enter an integer: ";
     cin >> number;
 
-    cout << "You entered " << number;    
+    cout << "You entered updated" << number;    
     return 0;
 }
