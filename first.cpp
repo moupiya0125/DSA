@@ -3,11 +3,11 @@
 using namespace std;
 
 int main() {    
-    int number;
+    int n;
 
     cout << "Enter an integer: ";
-    cin >> number;
+    cin >> n;
 
-    cout << "You entered updated" << number;    
+    cout << "You entered updated" << n;    
     return 0;
 }
